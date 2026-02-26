@@ -1,0 +1,16 @@
+{
+    "providers": [
+        {
+            "name": "openrouter",
+            "baseURL": "https://openrouter.ai/api/v1",
+            "apiKey": "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",
+            "models": [
+                {
+                    "id": "meta-llama/llama-3.1-8b-instruct:free",
+                    "name": "Llama 3.1 8B Free"
+                }
+            ]
+        }
+    ],
+    "defaultModel": "meta-llama/llama-3.1-8b-instruct:free"
+}

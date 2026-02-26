@@ -1,0 +1,60 @@
+{
+  "name": "SHKKBoard",
+  "version": "1.0.0",
+  "description": "Collaborative Kanban Board (Trello Clone)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "kanban",
+    "board",
+    "trello",
+    "collaboration"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@radix-ui/react-dialog": "^1.1.15",
+    "@radix-ui/react-dropdown-menu": "^2.1.16",
+    "@radix-ui/react-select": "^2.2.6",
+    "@radix-ui/react-slot": "^1.2.4",
+    "@radix-ui/react-switch": "^1.2.6",
+    "@radix-ui/react-tabs": "^1.1.13",
+    "@radix-ui/react-toast": "^1.2.15",
+    "@radix-ui/react-tooltip": "^1.2.8",
+    "@types/node": "^20.19.33",
+    "@types/react": "^18.3.28",
+    "@types/react-dom": "^18.3.7",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "autoprefixer": "^10.4.24",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^15.0.0",
+    "postcss": "^8.5.6",
+    "tailwind-merge": "^3.5.0",
+    "tailwindcss": "^3.4.19",
+    "typescript": "^5.9.3",
+    "zod": "^4.3.6"
+  },
+  "dependencies": {
+    "@prisma/client": "^7.4.1",
+    "@radix-ui/react-label": "^2.1.8",
+    "@supabase/auth-helpers-nextjs": "^0.15.0",
+    "@supabase/auth-ui-react": "^0.4.7",
+    "@supabase/auth-ui-shared": "^0.1.8",
+    "@supabase/ssr": "^0.8.0",
+    "@supabase/supabase-js": "^2.97.0",
+    "lucide-react": "^0.575.0",
+    "next": "^15.5.12",
+    "prisma": "^7.4.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "zustand": "^5.0.11"
+  }
+}
