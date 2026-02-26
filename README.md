@@ -240,12 +240,7 @@ This project implements comprehensive security measures following OWASP guidelin
 - Failed login attempt monitoring
 
 ### Security Documentation
-
-- 📄 [SECURITY_REQUIREMENTS.md](./SECURITY_REQUIREMENTS.md) - Detailed security requirements
-- 📄 [SECURITY_ANALYSIS.md](./SECURITY_ANALYSIS.md) - Security threat analysis
 - 📄 [SUPABASE_SECURITY_CONFIG.md](./SUPABASE_SECURITY_CONFIG.md) - Supabase security configuration
-- 📄 [SECURITY_IMPLEMENTATION_SUMMARY.md](./SECURITY_IMPLEMENTATION_SUMMARY.md) - Implementation summary
-
 ---
 
 ## 🗺️ Roadmap
